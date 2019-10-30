@@ -1,12 +1,11 @@
-f:\filetransmissionwindows\server\x64\debug\server.pch
 f:\filetransmissionwindows\server\x64\debug\vc141.pdb
 f:\filetransmissionwindows\server\x64\debug\vc141.idb
-f:\filetransmissionwindows\server\x64\debug\stdafx.obj
-f:\filetransmissionwindows\server\x64\debug\threadpool.obj
 f:\filetransmissionwindows\server\x64\debug\server.obj
+f:\filetransmissionwindows\server\x64\debug\threadpool.obj
+f:\filetransmissionwindows\server\x64\debug\stdafx.obj
 f:\filetransmissionwindows\server\x64\debug\mymd5.obj
-f:\filetransmissionwindows\x64\debug\server.exe
 f:\filetransmissionwindows\x64\debug\server.ilk
+f:\filetransmissionwindows\x64\debug\server.exe
 f:\filetransmissionwindows\x64\debug\server.pdb
 f:\filetransmissionwindows\server\x64\debug\server.tlog\cl.command.1.tlog
 f:\filetransmissionwindows\server\x64\debug\server.tlog\cl.read.1.tlog
