@@ -293,7 +293,7 @@ int main(int argc, char* argv[])
 
 							std::cout << "Receive File : " << pfileData->filename.c_str() << " From Server Successful !" << std::endl;
 							fclose(pfileData->fp);
-							std::cout << MD5_file((char*)pfileData->filename.c_str(), 16) << std::endl;
+							std::cout << MD5_file((char*)pfileData->filename.c_str(), 32) << std::endl;
 							mtx.unlock();
 							break;
 						}
@@ -314,7 +314,7 @@ int main(int argc, char* argv[])
 
 						std::cout << "Receive File : " << pfileData->filename.c_str() << " From Server Successful !" << std::endl;
 						fclose(pfileData->fp);
-						std::cout << " MD5 : " << MD5_file((char*)pfileData->filename.c_str(), 16) << std::endl;
+						std::cout << " MD5 : " << MD5_file((char*)pfileData->filename.c_str(), 32) << std::endl;
 						mtx.unlock();
 						break;
 					}
